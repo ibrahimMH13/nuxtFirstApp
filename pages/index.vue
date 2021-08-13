@@ -1,7 +1,12 @@
 <template>
-  <Tutorial/>
+  <main>
+    Hello, its is nuxt app
+
+  </main>
 </template>
 
 <script>
-export default {}
+  export default {
+    layout:'new',
+  }
 </script>
